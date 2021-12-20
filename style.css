@@ -1,0 +1,29 @@
+#navbar{
+    height:100px;
+    width:100%;
+    background-color: gray;
+    margin: auto;
+}
+img{
+    height: 200px;
+    width:200px;
+    align-items: center;
+    position:static;
+    margin:auto;
+    padding-left: 10em;
+}
+#skills{
+     height:100px;
+}
+#facebook-navbar-icon{
+    padding-left:1cm;
+    border-left: 5px;
+    align-items: center;
+    position: absolute;
+}
+
+#ed{
+     margin: auto;
+     position: relative;
+}
+    
